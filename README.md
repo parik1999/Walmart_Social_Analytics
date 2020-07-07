@@ -19,7 +19,7 @@ You can also generate your dataset from the Twitter stream by searching for a fe
 Here's the [link to code.](https://github.com/parik1999/Walmart_Social_Analytics/blob/master/django_walmart/app_walmart/walmart.py)
 
 Click on the image to view the API
-[<img src ="https://github.com/parik1999/Walmart_Social_Analytics/blob/master/Images/2.PNG">](https://app.powerbi.com/view?r=eyJrIjoiYzgxMWI0M2MtZjM0ZS00ODVlLWIxNGMtOTY2YmM0ZjE2MjBiIiwidCI6IjRjYzQ5Mjk3LTliOWUtNDY4YS1hYjA3LTk5Nzk2ZjQwNmUyZSJ9)
+[<img src ="https://github.com/parik1999/Walmart_Social_Analytics/blob/master/Images/2.PNG">](https://parik1999.github.io/Walmart/index.html)
 
 Our team, Alpha Boys was one among the top 15 selected from over 200 for this approach, and one among the top 3 for this problem statement.
 <img src ="https://github.com/parik1999/Walmart_Social_Analytics/blob/master/Images/3.png">
